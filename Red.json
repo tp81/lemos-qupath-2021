@@ -1,0 +1,24 @@
+{
+  "object_classifier_type": "SimpleClassifier",
+  "function": {
+    "classifier_fun": "ClassifyByMeasurementFunction",
+    "measurement": "Nucleus: Red mean",
+    "pathClassEquals": {
+      "name": "Stroma",
+      "colorRGB": -6895466
+    },
+    "pathClassAbove": {
+      "name": "Stroma",
+      "colorRGB": -6895466
+    },
+    "threshold": 232.98987282143648
+  },
+  "pathClasses": [
+    {
+      "name": "Stroma",
+      "colorRGB": -6895466
+    }
+  ],
+  "filter": "CELLS",
+  "timestamp": 1626984756697
+}
